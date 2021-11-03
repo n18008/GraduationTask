@@ -21,7 +21,7 @@
     "react-text-mask": "^5.4.3",
     "styled-components": "^4.4.0",
     "superagent": "^5.1.0",
-    "validator": "^11.1.0",
+    "validator": "^13.7.0",
     "whatwg-fetch": "^3.0.0"
   },
   "scripts": {
